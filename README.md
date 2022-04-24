@@ -1,2 +1,2 @@
-Projeto de uma página de login com Html, Css e JavaScript puro, sem frameworks.
+Project of a login page with Html, Css and pure JavaScript, without frameworks.
 
